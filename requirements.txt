@@ -6,3 +6,4 @@ numpy
 requests
 pysocks
 email-validator
+flask
